@@ -22,16 +22,14 @@
 ### Programming Languages
 - Java
 - JavaScript
-- PHP
-- Python (Basics)
+- PHP(Basics)
+- Python
 
 ### Web Development
 - HTML
 - CSS
 - React.js
-- Next.js
-- Node.js
-- Express.js
+- Javascript
 
 ### Database
 - MySQL
@@ -41,7 +39,7 @@
 - Git & GitHub
 - Linux
 - Blockchain
-- Solidity
+- Postman
 - REST APIs
 
 ---
@@ -134,7 +132,8 @@ https://github.com/benherr/complaint-portal-MINI
 
 ## 💼 Career Objective
 
-Motivated and detail-oriented MCA graduate seeking an entry-level Software Developer position to apply my skills in Java, Full Stack Development, and Blockchain technologies to build efficient, scalable, and secure applications.
+Motivated MCA graduate seeking an entry-level Software Developer position where I can apply my skills in Java, Full Stack Development, and Blockchain to build efficient and scalable applications while continuously learning and growing.
+
 
 ---
 
