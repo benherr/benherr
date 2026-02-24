@@ -73,19 +73,41 @@ https://github.com/benherr/complaint-portal-MINI
 
 ## 📊 GitHub Stats
 
-![Benher's GitHub stats](https://github-readme-stats.vercel.app/api?username=benherr&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=benherr&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benherr&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benherr&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=benherr&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=benherr&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=benherr&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=benherr&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p>
 <a href="https://www.linkedin.com/in/benher-basheer-371347377/">
@@ -102,7 +124,7 @@ https://github.com/benherr/complaint-portal-MINI
 
 ## 💼 Career Objective
 
-Motivated MCA graduate seeking an entry-level Software Developer position where I can apply my skills in Java, Full Stack Development, and Blockchain to build efficient and scalable applications while continuously learning and growing.
+Motivated and detail-oriented MCA graduate seeking an entry-level Software Developer position to apply my skills in Java, Full Stack Development, and Blockchain technologies to build efficient, scalable, and secure applications.
 
 ---
 
