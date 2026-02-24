@@ -40,7 +40,7 @@
 
 ### Database
 - MySQL
-- MongoDB
+- MongoDB <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### Other Technologies
 - Git & GitHub
