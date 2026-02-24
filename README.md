@@ -109,7 +109,13 @@ https://github.com/benherr/complaint-portal-MINI
 
 ## 🤝 Connect With Me
 
+
 <p>
+
+<a href="mailto:benherben456@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+
 <a href="https://www.linkedin.com/in/benher-basheer-371347377/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
@@ -119,6 +125,10 @@ https://github.com/benherr/complaint-portal-MINI
 </a>
 
 </p>
+
+**Email:** benherben456@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/benher-basheer-371347377/  
+**GitHub:** https://github.com/benherr
 
 ---
 
