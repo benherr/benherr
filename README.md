@@ -89,23 +89,9 @@ A full-stack web application that allows students to submit infrastructure compl
 - Web application for managing and tracking infrastructure complaints
 - Students/facalties can submit complaints and track status
 - Admin panel for complaint management
+ 
 
-### ✨ Key Features
-
-- Complaint submission system  
-- Admin dashboard  
-- Complaint status tracking  
-- Secure login system  
-- Responsive user interface  
-
-### 🛠️ Technologies Used
-
-- MongoDB  
-- Express.js  
-- React.js  
-- Node.js  
-- JavaScript  
-- HTML & CSS  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN Stack)  
 
 
 ### 🔗 GitHub Repository
