@@ -1,59 +1,49 @@
-<h1 align="center">Hi 👋, I'm Benher Basheer</h1>
+# Yo 👋, I'm Benher Basheer
 
-<h3 align="center">Software Developer | Java Full Stack Developer | MCA Graduate</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;Software+Developer;Open+to+Work&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-orange?style=for-the-badge" />
-</p>
+💻 MCA Graduate | Full Stack Developer  
+🚀 Passionate about building scalable web applications
+🌱 Currently seeking entry-level Software Developer / Java Full Stack Developer roles  
+📍 Kerala, India  
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 MCA Graduate passionate about Software Development  
-💻 Skilled in Java Full Stack, MERN Stack, and Blockchain  
-🔗 Built real-world full stack and decentralized applications  
-🌱 Currently seeking entry-level Software Developer roles  
-⚡ Strong interest in Backend Development and Scalable Systems  
+- 🎓 MCA Graduate with strong interest in Software Development
+- 💡 Skilled in Java, MERN Stack, Blockchain, and Full Stack Development
+- 🔗 Built real-world projects including a Decentralized Voting DApp and Complaint Portal
+- 🧠 Quick learner, passionate about problem solving and clean code
+- 🎯 Goal: To work as a Software Developer in a growth-oriented company
+
+---
+## 🛠️ Skills
+
+### Programming Languages
+- Java
+- JavaScript
+- PHP (Basics)
+- Python
+
+### Web Development
+- HTML
+- CSS
+- React.js
+- Node.js
+### Database
+- MySQL
+- MongoDB
+
+### Other Technologies
+- Git & GitHub
+- Linux
+- Blockchain
+- Solidity
+- REST APIs
+
 
 ---
 
-# 🛠️ Tech Stack
-
-## Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,php,python" />
-</p>
-
-## Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
-
-## Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,solidity" />
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Projects
 
 ---
 
@@ -68,31 +58,14 @@
 
 A blockchain-based decentralized voting system that ensures transparency, security, and immutability. The application eliminates centralized control and prevents vote manipulation using Ethereum smart contracts.
 
-### ✨ Key Features
+### 🗳️ Decentralized Voting Application (Voting DApp)
+- Built a secure blockchain-based voting system
+- Used Solidity smart contracts for voting logic
+- Integrated Next.js frontend with blockchain
+- Used IPFS for decentralized storage
 
-- Secure blockchain-based voting
-- Smart contract implementation using Solidity
-- Tamper-proof decentralized architecture
-- IPFS integration for decentralized storage
-- Candidate registration and vote casting
-- Automatic winner calculation
+**Tech Stack:** Solidity, Next.js, JavaScript, IPFS, Blockchain 
 
-### 🛠️ Technologies Used
-
-- Solidity  
-- Next.js  
-- JavaScript  
-- Ethereum Blockchain  
-- IPFS  
-- MetaMask  
-- Git & GitHub  
-
-### 🧠 My Role
-
-- Developed smart contracts using Solidity  
-- Built frontend using Next.js  
-- Integrated blockchain with frontend  
-- Implemented secure voting logic  
 
 ### 🔗 GitHub Repository
 
@@ -100,7 +73,7 @@ https://github.com/benherr/MAINPROJECT/tree/main/voting-dapp
 
 ---
 
-## 🏢 Infrastructure Complaint Portal (MERN Stack)
+## 🏢College Infrastructure Complaint Portal (MERN Stack)
 
 <p align="center">
 <img src="https://via.placeholder.com/800x400.png?text=Complaint+Portal+Home" width="800"/>
@@ -109,7 +82,13 @@ https://github.com/benherr/MAINPROJECT/tree/main/voting-dapp
 
 ### 📌 Project Overview
 
-A full-stack web application that allows users to submit infrastructure complaints and enables administrators to manage and resolve them efficiently.
+A full-stack web application that allows students to submit infrastructure complaints in college and enables administrators to manage and resolve them efficiently.
+
+
+### 🏢 College Infrastructure Complaint Portal
+- Web application for managing and tracking infrastructure complaints
+- Students/facalties can submit complaints and track status
+- Admin panel for complaint management
 
 ### ✨ Key Features
 
@@ -128,12 +107,6 @@ A full-stack web application that allows users to submit infrastructure complain
 - JavaScript  
 - HTML & CSS  
 
-### 🧠 My Role
-
-- Developed frontend using React.js  
-- Built backend using Node.js and Express.js  
-- Integrated MongoDB database  
-- Implemented complaint management system  
 
 ### 🔗 GitHub Repository
 
@@ -154,8 +127,7 @@ https://github.com/benherr/benherr/blob/main/Benher_Basheer_Resume.pdf
 # 🏆 Certifications
 
 - Java Full Stack Development – QSpiders  
-- MCA Graduate  
-- Blockchain Development (Project Experience)  
+
 
 ---
 
@@ -208,6 +180,11 @@ https://github.com/benherr/benherr/blob/main/Benher_Basheer_Resume.pdf
 **Email:** benherben456@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/benher-basheer-371347377/  
 **GitHub:** https://github.com/benherr  
+
+---
+## 💼 Career Objective
+
+Motivated MCA graduate seeking an entry-level Software Developer position where I can apply my skills in Java, Full Stack Development, and Blockchain to build efficient and scalable applications while continuously learning and growing.
 
 ---
 
