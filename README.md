@@ -102,9 +102,9 @@ https://github.com/benherr/complaint-portal-MINI
 
 # 📄 Resume
 
-📥 Download Resume:  
+  
+<a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf">📥 Download Resume:</a>
 
-https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf
 
 ---
 
