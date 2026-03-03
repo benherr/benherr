@@ -103,11 +103,8 @@ https://github.com/benherr/complaint-portal-MINI
 # 📄 Resume
 
 📥 Download Resume:  
-(Add your resume link here after uploading)
 
-Example:  
-https://github.com/benherr/benherr/blob/main/Benher_Basheer_Resume.pdf
-
+https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf
 ---
 
 # 🏆 Certifications
