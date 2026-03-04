@@ -50,8 +50,7 @@
 ## 🗳️ Decentralized Voting DApp
 
 <p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Voting+DApp+Home+Screen" width="800"/>
-<img src="https://via.placeholder.com/800x400.png?text=Voting+DApp+Dashboard" width="800"/>
+<img src="https://github.com/benherr/MAINPROJECT/blob/main/voting-dapp/Images/Homepage.png" width="800"/>
 </p>
 
 ### 📌 Project Overview
