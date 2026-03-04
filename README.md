@@ -51,6 +51,10 @@
 
 <p align="center">
 <img src="https://github.com/benherr/MAINPROJECT/blob/main/voting-dapp/Images/Homepage.png" width="800"/>
+
+
+
+ 
 </p>
 
 ### 📌 Project Overview
@@ -67,8 +71,8 @@ A blockchain-based decentralized voting system that ensures transparency, securi
 
 
 ### 🔗 GitHub Repository
+<a href="https://github.com/benherr/MAINPROJECT/tree/main/voting-dapp" >D-voting app</a>
 
-https://github.com/benherr/MAINPROJECT/tree/main/voting-dapp
 
 ---
 
