@@ -76,11 +76,11 @@ A blockchain-based decentralized voting system that ensures transparency, securi
 
 ---
 
-## 🏢College Infrastructure Complaint Portal (MERN Stack)
+## 🏢CampusCare
 
 <p align="center">
-<img src="https://via.placeholder.com/800x400.png?text=Complaint+Portal+Home" width="800"/>
-<img src="https://via.placeholder.com/800x400.png?text=Complaint+Portal+Dashboard" width="800"/>
+<img src="https://raw.githubusercontent.com/benherr/complaint-portal-MINI/main/Images/Home.png" width="800"/>
+ <img src="https://raw.githubusercontent.com/benherr/complaint-portal-MINI/main/Images/home2.png" width="800"/>
 </p>
 
 ### 📌 Project Overview
@@ -88,7 +88,7 @@ A blockchain-based decentralized voting system that ensures transparency, securi
 A full-stack web application that allows students to submit infrastructure complaints in college and enables administrators to manage and resolve them efficiently.
 
 
-### 🏢 College Infrastructure Complaint Portal
+### 🏢CampusCare
 - Web application for managing and tracking infrastructure complaints
 - Students/facalties can submit complaints and track status
 - Admin panel for complaint management
@@ -99,7 +99,7 @@ A full-stack web application that allows students to submit infrastructure compl
 
 ### 🔗 GitHub Repository
 
-https://github.com/benherr/complaint-portal-MINI
+<a href="https://github.com/benherr/complaint-portal-MINI">CampusCare</a>
 
 ---
 
@@ -115,18 +115,6 @@ https://github.com/benherr/complaint-portal-MINI
 
 - Java Full Stack Development – QSpiders  
 
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=benherr&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benherr&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -165,7 +153,7 @@ https://github.com/benherr/complaint-portal-MINI
 </p>
 
 **Email:** benherben456@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/benher-basheer-371347377/  
+**LinkedIn:** https://www.linkedin.com/in/benher-basheer/  
 **GitHub:** https://github.com/benherr  
 
 ---
