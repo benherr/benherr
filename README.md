@@ -97,7 +97,7 @@ A full-stack web application that allows students to submit infrastructure compl
 
 ### 🔗 GitHub Repository
 
-<a href="https://github.com/benherr/complaint-portal-MINI">CampusCare</a>
+<a href="https://github.com/benherr/CampusCare">CampusCare</a>
 
 ---
 
