@@ -1,3 +1,6 @@
+
+
+
 # Yo 👋, I'm Benher Basheer
 
 💻 MCA Graduate | Full Stack Developer  
@@ -52,8 +55,6 @@
 <p align="center">
 <img src="https://github.com/benherr/MAINPROJECT/blob/main/voting-dapp/Images/Homepage.png" width="800"/>
 
-
-
  
 </p>
 
@@ -61,7 +62,6 @@
 
 A blockchain-based decentralized voting system that ensures transparency, security, and immutability. The application eliminates centralized control and prevents vote manipulation using Ethereum smart contracts.
 
-### 🗳️ Decentralized Voting Application (Voting DApp)
 - Built a secure blockchain-based voting system
 - Used Solidity smart contracts for voting logic
 - Integrated Next.js frontend with blockchain
@@ -87,8 +87,6 @@ A blockchain-based decentralized voting system that ensures transparency, securi
 
 A full-stack web application that allows students to submit infrastructure complaints in college and enables administrators to manage and resolve them efficiently.
 
-
-### 🏢CampusCare
 - Web application for managing and tracking infrastructure complaints
 - Students/facalties can submit complaints and track status
 - Admin panel for complaint management
