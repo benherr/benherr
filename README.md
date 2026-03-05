@@ -118,11 +118,9 @@ A full-stack web application that allows students to submit infrastructure compl
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=benherr&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=benherr&theme=github-dark)
 
 ---
 
