@@ -1,162 +1,120 @@
 
+ <img src="https://komarev.com/ghpvc/?username=benherr&label=Profile%20views&color=000000&style=flat-square" />
 
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" style="vertical-align: middle;"> I'm Benher Basheer
+</h1>
 
-# Yo 👋, I'm Benher Basheer
+<h3 align="center">
+  A Passionate Full Stack Developer | Software Engineer Enthusiast
+</h3>
 
-💻 MCA Graduate | Full Stack Developer  
-🚀 Passionate about building scalable web applications
-🌱 Currently seeking entry-level Software Developer / Java Full Stack Developer roles  
-📍 Kerala, India  
+<table>
+<tr>
+<td width="50%">
 
----
+- 🎓 MCA Graduate  
+- 🌱 Currently learning **Full Stack Development**  
+- 💼 Seeking entry-level Software Developer roles  
+- 📍 Kerala, India  
+- 🌐 English, Malayalam  
 
-## 👨‍💻 About Me
+</td>
 
-- 🎓 MCA Graduate with strong interest in Software Development
-- 💡 Skilled in Java, MERN Stack, Blockchain, and Full Stack Development
-- 🔗 Built real-world projects including a Decentralized Voting DApp and Complaint Portal
-- 🧠 Quick learner, passionate about problem solving and clean code
-- 🎯 Goal: To work as a Software Developer in a growth-oriented company
+<td width="50%">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
+</td>
+</tr>
+</table>
 
----
-## 🛠️ Skills
-
-### Programming Languages
-- Java
-- JavaScript
-- PHP (Basics)
-- Python
-
-### Web Development
-- HTML
-- CSS
-- React.js
-- Node.js
-### Database
-- MySQL
-- MongoDB
-
-### Other Technologies
-- Git & GitHub
-- Linux
-- Blockchain
-- Solidity
-- REST APIs
-
-
----
-
-## 🚀 Projects
-
----
-
-## 🗳️ Decentralized Voting DApp
-
-<p align="center">
-<img src="https://github.com/benherr/MAINPROJECT/blob/main/voting-dapp/Images/Homepage.png" width="800"/>
-
- 
-</p>
-
-### 📌 Project Overview
-
-A blockchain-based decentralized voting system that ensures transparency, security, and immutability. The application eliminates centralized control and prevents vote manipulation using Ethereum smart contracts.
-
-- Built a secure blockchain-based voting system
-- Used Solidity smart contracts for voting logic
-- Integrated Next.js frontend with blockchain
-- Used IPFS for decentralized storage
-
-**Tech Stack:** Solidity, Next.js, JavaScript, IPFS, Blockchain 
-
-
-### 🔗 GitHub Repository
-<a href="https://github.com/benherr/MAINPROJECT/tree/main/voting-dapp" >D-voting app</a>
-
-
----
-
-## 🏢CampusCare
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/benherr/complaint-portal-MINI/main/Images/Home.png" width="800"/>
- <img src="https://raw.githubusercontent.com/benherr/complaint-portal-MINI/main/Images/home2.png" width="800"/>
-</p>
-
-### 📌 Project Overview
-
-A full-stack web application that allows students to submit infrastructure complaints in college and enables administrators to manage and resolve them efficiently.
-
-- Web application for managing and tracking infrastructure complaints
-- Students/facalties can submit complaints and track status
-- Admin panel for complaint management
- 
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN Stack)  
-
-
-### 🔗 GitHub Repository
-
-<a href="https://github.com/benherr/CampusCare">CampusCare</a>
-
----
-
-# 📄 Resume
-
-  
-<a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf">📥 Download Resume:</a>
-
-
----
-
-# 🏆 Certifications
-
-- Java Full Stack Development – QSpiders  
-
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=benherr&theme=github-dark)
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=benherr&theme=tokyo-night" />
-</p>
-
----
-
-# 🤝 Connect With Me
+### Connect with me
 
 <p>
+  <a href="https://www.linkedin.com/in/benher-basheer/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://leetcode.com/benherrr">
+    <img src="https://img.shields.io/badge/LEETCODE-purple?style=for-the-badge&logo=leetcode" />
+  </a>
 
-<a href="mailto:benherben456@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/benher-basheer-371347377/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-
-<a href="https://github.com/benherr">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
-</a>
-
+  <a href="mailto:benherben456@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-**Email:** benherben456@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/benher-basheer/  
-**GitHub:** https://github.com/benherr  
-
----
-## 💼 Career Objective
-
-Motivated MCA graduate seeking an entry-level Software Developer position where I can apply my skills in Java, Full Stack Development, and Blockchain to build efficient and scalable applications while continuously learning and growing.
 
 ---
 
-⭐ From [benherr](https://github.com/benherr)
+## <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" /> Skills
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-teal?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+
+
+
+###  Frameworks / Libraries
+<p>
+  <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-grey?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+
+### Databases:
+<p>
+
+<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
+ 
+</p>
+
+
+### 🌐 Platforms:
+<p>
+  <img src="https://img.shields.io/badge/VERCEL-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RENDER-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NETLIFY-green?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+
+---
+
+> D-Voting App
+<p >
+   <a href="https://github.com/benherr/voting-dapp">
+    <img src="https://github.com/benherr/D-voting-app/blob/main/voting-dapp/Images/Homepage.png" width="300" />
+   </a>
+</p>
+
+> CampusCare
+<p>
+
+  <a href="https://github.com/benherr/campuscare">
+    <img src="https://raw.githubusercontent.com/benherr/complaint-portal-MINI/main/Images/Home.png" width="300" />
+  </a>
+</p>
+
+
+---
+
+
+<img src="https://raw.githubusercontent.com/benherr/benherr/output/github-contribution-grid-snake-dark.svg" />
+
+
+> <a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf">📥 Download Resume:</a>
+
+---
+
+
+> "Code. Learn. Build. Repeat." 
+
+❤️ From [benherr](https://github.com/benherr)
