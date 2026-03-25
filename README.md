@@ -1,5 +1,6 @@
 
- <img src="https://komarev.com/ghpvc/?username=benherr&label=Profile%20views&color=000000&style=flat-square" />
+ <img src="https://komarev.com/ghpvc/?username=benherr&label=Profile%20views&color=000000&style=flat-square" /> 
+
 
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" style="vertical-align: middle;"> I'm Benher Basheer
@@ -9,9 +10,7 @@
   A Passionate Full Stack Developer | Software Engineer Enthusiast
 </h3>
 
-<table>
-<tr>
-<td width="50%">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="50%" height="50%" />
 
 - 🎓 MCA Graduate  
 - 🌱 Currently learning **Full Stack Development**  
@@ -19,13 +18,11 @@
 - 📍 Kerala, India  
 - 🌐 English, Malayalam  
 
-</td>
 
-<td width="50%">
-  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
-</td>
-</tr>
-</table>
+
+
+
+
 
 ### Connect with me
 
@@ -110,11 +107,12 @@
 <img src="https://raw.githubusercontent.com/benherr/benherr/output/github-contribution-grid-snake-dark.svg" />
 
 
+
+
+
 > <a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf">📥 Download Resume:</a>
 
----
 
 
 > "Code. Learn. Build. Repeat." 
 
-❤️ From [benherr](https://github.com/benherr)
