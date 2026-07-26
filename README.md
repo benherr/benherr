@@ -121,7 +121,7 @@
 
 
 
-> <a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Resume.pdf">📥 Download Resume:</a>
+> <a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Resume.pdf">📥 View Resume:</a>
 
 
 
