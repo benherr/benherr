@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="https://leetcode.com/benherrr">
-    <img src="https://img.shields.io/badge/LEETCODE-purple?style=for-the-badge&logo=leetcode" />
+  <a href="https://benherbasheer.me" target="_blank">
+     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <a href="mailto:benherben456@gmail.com">
@@ -121,7 +121,7 @@
 
 
 
-> <a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Software_Developer_Resume.pdf">📥 Download Resume:</a>
+> <a href="https://github.com/benherr/benherr/blob/main/Benher_Basheer_Resume.pdf">📥 Download Resume:</a>
 
 
 
