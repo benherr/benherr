@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  A Passionate Full Stack Developer | Software Engineer Enthusiast |Exploring Cybersecurity
+  A Passionate Full Stack Developer | Software Engineer Enthusiast | Exploring Cybersecurity
 </h3>
 
 <p align="center">
